@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Zubair (@zubayr-ahmad)
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and Web development
+- 🌱 I’m currently learning Python, Probability and Statistics
 - 💞️ Email: zubayrahmad0308@gmal.com
 
 <!---
