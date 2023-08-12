@@ -1,10 +1,31 @@
-- 👋 Hi, I’m Muhammad Zubair (@zubayr-ahmad)
-- 👀 I’m interested in Data Science and Web Development
-- I have completed my Python courses. I have also completed Probability and Statistics course.
-- 🌱 I’m currently learning Data Structures and Algorithms, Data Base Systems (MySQL) and Angular as frontend engineer.
-- 💞️ Email: zubayrahmad0308@gmal.com
+# Hey there! 👋
 
-<!---
-zubayr-ahmad/zubayr-ahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Muhammad Zubair, a data science student at Punjab University College of Information Technology, currently in my 4th semester. I have a passion for problem-solving, hard work, and honing my skills in the world of data science.
+
+## About Me
+
+- 🌆 Based in: Lahore, Pakistan
+- 📚 Studying: BS Data Science
+- 🏢 University: Punjab University College of Information Technology
+- 📅 Semester: 4th
+- 📊 Interested in: Data Science, Machine Learning, Database Engineering
+- 🏏 Favorite Sport: Cricket
+
+## Skills
+
+- Programming Languages: Python, JavaScript, TypeScript
+- Web Development: HTML, CSS, JavaScript, Angular, Django
+- Database Systems: MySQL
+- Version Control: Git
+- Problem-Solving: [LeetCode](https://leetcode.com/zubayr_ahmad/)
+
+## Tech Competitions
+
+- [PuCon23](https://drive.google.com/file/d/1dHHUpovPXChr1MER_Cc7pqHXQUOpGkuU/view): Took part in WebHackathon and got 9th position from around 40 teams.
+
+## Connect with Me
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/zubayr-ahmad)
+- GitHub: [Your GitHub Profile](https://github.com/zubayr-ahmad)
+
+Feel free to reach out to me if you're interested in collaborating, discussing data science, or just want to chat about cricket! 🏏
