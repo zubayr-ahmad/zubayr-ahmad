@@ -25,7 +25,7 @@ I'm Muhammad Zubair, a data science student at Punjab University College of Info
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/zubayr-ahmad)
-- GitHub: [Your GitHub Profile](https://github.com/zubayr-ahmad)
+- LinkedIn: [zubayr-ahmad](https://www.linkedin.com/in/zubayr-ahmad)
+- GitHub: [zubayr-ahmad](https://github.com/zubayr-ahmad)
 
 Feel free to reach out to me if you're interested in collaborating, discussing data science, or just want to chat about cricket! 🏏
