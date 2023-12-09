@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Muhammad Zubair, a data science student at Punjab University College of Information Technology, currently in my 4th semester. I have a passion for problem-solving, hard work, and honing my skills in the world of data science.
+I'm Muhammad Zubair, a data science student at Punjab University College of Information Technology (PUCIT), currently in my 4th semester. I have a passion for problem-solving, hard work, and honing my skills in the world of data science. I am also working as an online Python and Database instructor at [Preply](https://preply.com/en/tutor/4006737).
 
 ## About Me
 
@@ -28,4 +28,4 @@ I'm Muhammad Zubair, a data science student at Punjab University College of Info
 - LinkedIn: [zubayr-ahmad](https://www.linkedin.com/in/zubayr-ahmad)
 - GitHub: [zubayr-ahmad](https://github.com/zubayr-ahmad)
 
-Feel free to reach out to me if you're interested in collaborating, discussing data science, or just want to chat about cricket! 🏏
+Feel free to reach out to me if you're interested in collaborating, discussing data science, or just want to have a chat about cricket! 🏏
