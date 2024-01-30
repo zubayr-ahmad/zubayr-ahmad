@@ -7,8 +7,8 @@ I'm Muhammad Zubair, a data science student at Punjab University College of Info
 - 🌆 Based in: Lahore, Pakistan
 - 📚 Studying: BS Data Science
 - 🏢 University: Punjab University College of Information Technology
-- 📅 Semester: 4th
-- 📊 Interested in: Data Science, Machine Learning, Database Engineering
+- 📅 Year: 3rd
+- 📊 Interested in: Data Science, Machine Learning, Datab Engineering
 - 🏏 Favorite Sport: Cricket
 
 ## Skills
