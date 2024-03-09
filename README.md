@@ -35,3 +35,4 @@ Feel free to reach out to me if you're interested in collaborating, discussing d
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=zubayr-ahmad&theme=dark)](https://git.io/streak-stats)
 
+![Snake animation](https://github.com/zubayr-ahmad/zubayr-ahmad/blob/output/github-contribution-grid-snake.svg)
