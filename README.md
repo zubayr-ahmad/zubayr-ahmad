@@ -19,6 +19,8 @@ I'm Muhammad Zubair, a data science student at Punjab University College of Info
 - Version Control: Git
 - Problem-Solving: [LeetCode](https://leetcode.com/zubayr_ahmad/)
 
+
+
 ## Tech Competitions
 
 - [PuCon23](https://drive.google.com/file/d/1dHHUpovPXChr1MER_Cc7pqHXQUOpGkuU/view): Took part in WebHackathon and got 9th position from around 40 teams.
@@ -28,4 +30,6 @@ I'm Muhammad Zubair, a data science student at Punjab University College of Info
 - LinkedIn: [zubayr-ahmad](https://www.linkedin.com/in/zubayr-ahmad)
 - GitHub: [zubayr-ahmad](https://github.com/zubayr-ahmad)
 
-Feel free to reach out to me if you're interested in collaborating, discussing data science, or just want to have a chat about cricket! 🏏
+Feel free to reach out to me uif yo're interested in collaborating, discussing data science, or just want to have a chat about cricket! 🏏
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zubayr-ahmad&theme=dark)](https://git.io/streak-stats)
