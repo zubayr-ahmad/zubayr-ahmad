@@ -1,3 +1,4 @@
+
 # Hey there! 👋
 
 I'm Muhammad Zubair, a data science student at Punjab University College of Information Technology (PUCIT), currently in my 4th semester. I have a passion for problem-solving, hard work, and honing my skills in the world of data science. I am also working as an online Python and Database instructor at [Preply](https://preply.com/en/tutor/4006737).
@@ -35,4 +36,4 @@ Feel free to reach out to me if you're interested in collaborating, discussing d
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=zubayr-ahmad&theme=dark)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/zubayr-ahmad/zubayr-ahmad/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/zubayr-ahmad/zubayr-ahmad/output/github-contribution-grid-snake-dark.svg)
