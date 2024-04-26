@@ -1,7 +1,7 @@
 
 # Hey there! 👋
 
-I'm Muhammad Zubair, a data science student at Punjab University College of Information Technology (PUCIT), currently in my 4th semester. I have a passion for problem-solving, hard work, and honing my skills in the world of data science. I am also working as an online Python and Database instructor at [Preply](https://preply.com/en/tutor/4006737).
+I'm Muhammad Zubair, a data science student at Punjab University College of Information Technology (PUCIT), currently in my 5th semester. I have a passion for problem-solving, hard work, and honing my skills in the world of data science. I am also working as an online Python and Database instructor at [Preply](https://preply.com/en/tutor/4006737).
 
 ## About Me
 
@@ -15,7 +15,7 @@ I'm Muhammad Zubair, a data science student at Punjab University College of Info
 ## Skills
 
 - Programming Languages: Python, JavaScript, TypeScript
-- Web Development: HTML, CSS, JavaScript, Angular, Django
+- Web Development: HTML, CSS, JavaScript, Angular, React, Django
 - Database Systems: MySQL
 - Version Control: Git
 - Problem-Solving: [LeetCode](https://leetcode.com/zubayr_ahmad/)
@@ -31,7 +31,7 @@ I'm Muhammad Zubair, a data science student at Punjab University College of Info
 - LinkedIn: [zubayr-ahmad](https://www.linkedin.com/in/zubayr-ahmad)
 - GitHub: [zubayr-ahmad](https://github.com/zubayr-ahmad)
 
-Feel free to reach out to me if you're interested in collaborating, discussing data science, or just want to have a chat about cricket! 🏏  
+Feel free to reach out to me if you're interested in collaboration, discussing data science, or just want to have a chat about cricket! 🏏  
 
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=zubayr-ahmad&theme=dark)](https://git.io/streak-stats)
