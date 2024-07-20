@@ -17,7 +17,7 @@ I'm Muhammad Zubair, a data science student at Punjab University College of Info
 - Programming Languages: Python, JavaScript, TypeScript
 - Web Development: HTML, CSS, JavaScript, Angular, React, Django
 - Domains: Data Analysis, Machine Learning
-- Database Systems: MySQL
+- Database Systems: MySQL, SQL Server
 - Version Control: Git
 - Problem-Solving: [LeetCode](https://leetcode.com/zubayr_ahmad/)
 
