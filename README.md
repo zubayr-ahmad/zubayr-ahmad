@@ -1,27 +1,24 @@
 
 # Hey there! 👋
 
-I'm Muhammad Zubair, a data science student at Punjab University College of Information Technology (PUCIT), currently in my 6th semester. I have a passion for problem-solving, machine learning, and honing my skills in the world of data science. I am also working as an online Data Science instructor at [Preply](https://preply.com/en/tutor/4006737).
+I am Muhammad Zubair, a final-year BS Data Science student curious to uncover insights from data. My expertise spans Python, SQL, data analysis, and machine learning, where I focus on turning complex data into meaningful patterns that drive informed decisions. Alongside my studies, I work as a part-time programming instructor on [Preply](https://preply.com/en/tutor/4006737), teaching Python, SQL, Data Analysis, and Machine Learning to students across various backgrounds and countries
 
 ## About Me
 
 - 🌆 Based in: Lahore, Pakistan
 - 📚 Studying: BS Data Science
 - 🏢 University: Punjab University College of Information Technology
-- 📅 Year: 3rd
-- 📊 Interested in: Data Science, Machine Learning, Datab Engineering
+- 📅 Graduating: June, 2025
+- 📊 Interested in: Data Science, Machine Learning, Data Engineering
 - 🏏 Favorite Sport: Cricket
 
 ## Skills
 
-- Programming Languages: Python, JavaScript, TypeScript
-- Web Development: HTML, CSS, JavaScript, Angular, React, Django
-- Domains: Data Analysis, Machine Learning
+- Programming: Python, Django, JavaScript
+- Domains: Machine Learning, Data Engineering, Data Analysis
 - Database Systems: MySQL, SQL Server
 - Version Control: Git
 - Problem-Solving: [LeetCode](https://leetcode.com/zubayr_ahmad/)
-
-
 
 ## Tech Competitions
 
@@ -31,6 +28,7 @@ I'm Muhammad Zubair, a data science student at Punjab University College of Info
 
 - LinkedIn: [zubayr-ahmad](https://www.linkedin.com/in/zubayr-ahmad)
 - GitHub: [zubayr-ahmad](https://github.com/zubayr-ahmad)
+- Kaggle: [zubayr_ahmad](https://www.kaggle.com/zubayrahmad)
 
 Feel free to reach out to me if you're interested in collaboration, discussing data science, or just want to have a chat about cricket! 🏏  
 
