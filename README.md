@@ -1,7 +1,7 @@
 
 # Hey there! 👋
 
-I’m Muhammad Zubair, a Machine Learning Engineer who loves building AI systems that can think, plan, and act on their own. Lately, I’ve been working a lot with Agentic AI and scalable backend systems — combining the power of large language models with reliable, production-ready APIs.
+I’m Muhammad Zubair, a **Machine Learning Engineer** who loves building AI systems that can think, plan, and act on their own. Lately, I’ve been working a lot with Agentic AI and scalable backend systems — combining the power of large language models with reliable, production-ready APIs.
 
 Most of my work revolves around Python, Django, FastAPI, LangChain, LangGraph, and Agentic AI platforms. I enjoy figuring out how to make AI agents not just smart, but also practical and efficient for real-world use. When I’m not coding, I also teach Python, Machine Learning, and Agentic AI to students around the world on [Preply](https://preply.com/en/tutor/4006737).
 
@@ -31,7 +31,7 @@ Most of my work revolves around Python, Django, FastAPI, LangChain, LangGraph, a
 - GitHub: [zubayr-ahmad](https://github.com/zubayr-ahmad)
 - Kaggle: [zubayr_ahmad](https://www.kaggle.com/zubayrahmad)
 
-Feel free to reach out to me if you're interested in collaboration, discussing data science, or just want to have a chat about cricket! 🏏  
+Always happy to talk about AI, swap project ideas, or just talk cricket🏏  
 
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=zubayr-ahmad&theme=dark)](https://git.io/streak-stats)
