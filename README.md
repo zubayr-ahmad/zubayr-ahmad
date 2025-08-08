@@ -1,22 +1,23 @@
 
 # Hey there! 👋
 
-I am Muhammad Zubair, a final-year BS Data Science student curious to uncover insights from data. My expertise spans Python, SQL, data analysis, and machine learning, where I focus on turning complex data into meaningful patterns that drive informed decisions. Alongside my studies, I work as a part-time programming instructor on [Preply](https://preply.com/en/tutor/4006737), teaching Python, SQL, Data Analysis, and Machine Learning to students across various backgrounds and countries
+I’m Muhammad Zubair, a Machine Learning Engineer who loves building AI systems that can think, plan, and act on their own. Lately, I’ve been working a lot with Agentic AI and scalable backend systems — combining the power of large language models with reliable, production-ready APIs.
+
+Most of my work revolves around Python, Django, FastAPI, LangChain, LangGraph, and Agentic AI platforms. I enjoy figuring out how to make AI agents not just smart, but also practical and efficient for real-world use. When I’m not coding, I also teach Python, Machine Learning, and Agentic AI to students around the world on [Preply](https://preply.com/en/tutor/4006737).
 
 ## About Me
 
 - 🌆 Based in: Lahore, Pakistan
-- 📚 Studying: BS Data Science
+- 💼 Role: Machine Learning Engineer
 - 🏢 University: Punjab University College of Information Technology
-- 📅 Graduating: June, 2025
-- 📊 Interested in: Data Science, Machine Learning, Data Engineering
-- 🏏 Favorite Sport: Cricket
+- 🔍 Interests: Agentic AI, building AI agents, scalable backend development, NLP
+- 🏏 Fun fact: I never say no to a game of cricket
+
 
 ## Skills
-
-- Programming: Python, Django, JavaScript
-- Domains: Machine Learning, Data Engineering, Data Analysis
-- Database Systems: MySQL, SQL Server
+- Languages & Frameworks: Python, Django, JavaScript, FastAPI
+- AI & ML: Agentic AI, NLP, LangChain, LangGraph
+- Databases: MySQL, SQL Server
 - Version Control: Git
 - Problem-Solving: [LeetCode](https://leetcode.com/zubayr_ahmad/)
 
