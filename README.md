@@ -1,25 +1,26 @@
 # Hey, I'm Muhammad Zubair 👋
 
-I am AI Engineer who builds production-grade 
-agentic systems, RAG pipelines, and end-to-end AI automation.
-I enjoy figuring out how to make AI agents not just smart, 
-but practical and reliable for real-world use.
+I'm an AI Engineer who builds production-grade agentic systems, RAG pipelines, and
+end-to-end AI automation. Most of my work is figuring out how to make AI agents not
+just smart, but practical and reliable enough to put in front of real users.
 
-When I'm not coding, I teach Python, Machine Learning, and AI 
-to students on [Preply](https://preply.com/en/tutor/4006737), 
-and I never say no to a game of cricket 🏏
+So far, built production systems across finance, geospatial, logistics, compliance,
+sales, and education and few of them are AI product-based startups serving live users
+
+When I'm not coding, I teach Python, Machine Learning, and AI to students on
+[Preply](https://preply.com/en/tutor/4006737), and I never say no to a game of cricket 🏏
 
 ---
 
 ## What I Work On
 
-- **Agentic AI** — multi-agent orchestration, LangGraph-based 
+- **Agentic AI** — multi-agent orchestration, LangGraph-based
 workflows, tool calling, multi-tier memory architectures
-- **RAG Systems** — retrieval pipelines, vector stores, chunking 
+- **RAG Systems** — retrieval pipelines, vector stores, chunking
 strategies, semantic search across legal, financial, and geospatial domains
-- **AI Automation** — intelligent document processing, lead generation 
+- **AI Automation** — intelligent document processing, lead generation
 pipelines, CRM integrations, WhatsApp and outreach automation
-- **Backend Engineering** — FastAPI, Django, PostgreSQL, Redis, Celery, 
+- **Backend Engineering** — FastAPI, Django, PostgreSQL, Redis, Celery,
 REST APIs, WebSockets
 
 ---
@@ -27,20 +28,20 @@ REST APIs, WebSockets
 ## Tech Stack
 
 **Backend**  
-Python | FastAPI | Django | PostgreSQL | Redis | Celery | Pydantic | 
-Alembic | ReactJS | Docker | Git | Linux | Pytest
+Python | FastAPI | Django | PostgreSQL | Redis | Celery | Pydantic |
+Alembic | Docker | Git | Linux | Pytest
 
 **Agentic AI**  
-LangChain | LangGraph | LangGraph Server | RAG | Instructor | Cohere | 
-Openrouter | Pinecone | ChromaDB | PgVector | ElasticSearch | LangSmith | 
+LangChain | LangGraph | LangGraph Server | RAG | Instructor | Cohere |
+Openrouter | Pinecone | ChromaDB | PgVector | ElasticSearch | LangSmith |
 Firecrawl | Numpy | Pandas
 
 **Cloud & Ops**  
-AWS (EC2, S3, DynamoDB) | Azure (Blob Storage, Document Intelligence) | 
+AWS (EC2, S3, DynamoDB) | Azure (Blob Storage, Document Intelligence) |
 GCP (Cloud Run, Compute Engine) | Docker | GitHub Actions
 
 **Integrations**  
-HubSpot | Salesforce | Graph API | Apollo | Clay | Smartlead | 
+HubSpot | Salesforce | Graph API | Apollo | Clay | Smartlead |
 Playwright | GoLogin | Meta API | Twilio | n8n | PostHog
 
 ---
@@ -48,23 +49,24 @@ Playwright | GoLogin | Meta API | Twilio | n8n | PostHog
 ## Projects
 
 ### [Zayg.ai](https://zayg.ai)
-AI chatbot platform with configurable persona-based agents, multi-tier 
-memory architecture for persistent context, public chat sharing, 
-async task scheduling, and plan-based token-bucket rate limiting.  
-`LangChain` `LangGraph` `FastAPI` `Pinecone` `Redis` `Celery`
+A persona-based chatbot platform with a multi-tier memory system for persistent
+context, project-based context isolation, and plan-based token-bucket rate limiting.  
+`LangGraph` `FastAPI` `Pinecone` `Redis` `Celery`
 
-### [Clip Insights](https://clipinsights.com)
-AI-powered browser extension for YouTube with a live user base. 
-Features real-time screenshots, intelligent summarization, key-point 
-extraction, contextual chat, notes, and PDF export for better 
-content retention.  
-`Chrome Extension` `AI Summarization` `LLMs`
+### [Simpla.ai](https://www.simpla.ai)
+A tax and accounting assistant for the GCC and IFRS — VAT and corporate-tax answers
+grounded in each country's laws, with citations, in English and Arabic.  
+`Django` `LangChain` `Cohere` `Pinecone` `Azure Document Intelligence`
 
-### [Study Buddy](https://github.com/abdullahdotnet/StudyBuddy-FYP)
-AI-powered university entrance test preparation platform with a 
-curriculum-aware chatbot, LLM-driven test generation, step-by-step 
-solution guidance, performance analytics, and notes management.  
-`LangChain` `FastAPI` `PostgreSQL` `ReactJS`
+### [ClipInsights](https://clipinsights.com)
+An AI companion for YouTube with live users: real-time screenshots, timestamped notes,
+summaries, key points, and chat over any video for better content retention.  
+`Django` `LangChain` `CockroachDB` `TypeScript` `React`
+
+### [BooqX](https://booqx.de)
+The booking agent behind a live appointment product — it books, reschedules, and cancels
+against real staff availability, and onboards a new business with no code changes.  
+`LangGraph` `Python` `OpenAI`
 
 ---
 
@@ -86,9 +88,9 @@ solution guidance, performance analytics, and notes management.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/zubayr-ahmad) · 
-[Portfolio](https://mzubayr.vercel.app/) · 
-[Kaggle](https://www.kaggle.com/zubayrahmad) · 
+[LinkedIn](https://www.linkedin.com/in/zubayr-ahmad) ·
+[Portfolio](https://mzubayr.vercel.app/) ·
+[Kaggle](https://www.kaggle.com/zubayrahmad) ·
 [LeetCode](https://leetcode.com/zubayr_ahmad/)
 
 ---
